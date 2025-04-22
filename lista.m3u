@@ -6,3 +6,6 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="Brasil: variedades",Globo São Paulo | Brasil
 https://cdn-2.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ArFQjwjhy4TsPEZcj_30XLMmBdgTNssvL84l1pkx7-oVFwgx9GoWV6rx&s=10" group-title="Brasil: variedades",Band | Brasil
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
